@@ -2,3 +2,7 @@
 Включает в себя:
 * Аддитивный шифр
 * Шифр Виженера
+* Шифр Плейфера
+* Шифр Хилла
+
+Big thanks to [dimyasha](https://github.com/dimayasha7123)
